@@ -4,10 +4,8 @@
 
 
 
----
-## Useful Apps
-<br>
 
+## Useful Apps
 ### [PowerToys](hhttps://github.com/microsoft/PowerToys)
 A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
@@ -28,17 +26,12 @@ Lightweight, free ads antivirus.
 
 ---
 ## Customize Windows
-<br>
-
 ### [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
 TaskbarX gives you control over the position of your taskbar icons. TaskbarX will give you an original Windows dock like feel
 
 ---
 ## Setup for Development
-<br>
-
 ### WSL2 SETUP
-
 1. Download `Ubuntu` and `Windows Terminal` from Microsoft Store and open Ubuntu after the instalation, create Unix username and password
 2. Run Win+R and enter appwiz.cpl, on the left go to `Turn Windows Features On or Off` and enable `Virtual Machine Platform` and `Windows Subsystem For Linux` optional feature. (Restart PC)
 3. Open Windows PowerShell, and enter `wsl -l -v` to check for the wsl version, to set it up to version 2 enter `wsl --set-version <distribution name> 2`
