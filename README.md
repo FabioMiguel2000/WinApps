@@ -6,7 +6,7 @@
 
 
 ## Useful Apps
-### [PowerToys](hhttps://github.com/microsoft/PowerToys)
+### [PowerToys](https://github.com/microsoft/PowerToys)
 A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
 ### [Geek Unistaller](https://geekuninstaller.com/)
