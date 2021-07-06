@@ -24,17 +24,20 @@ Lightweight, free ads antivirus.
 ### [7zip](https://www.7-zip.org/)
 7-Zip is a file archiver with a high compression ratio.
 
----
 ## Customize Windows
 ### [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
 TaskbarX gives you control over the position of your taskbar icons. TaskbarX will give you an original Windows dock like feel
 
----
+### [Custom Windows Icons](customs)
+
+
 ## Setup for Development
 ### WSL2 SETUP
 1. Download `Ubuntu` and `Windows Terminal` from Microsoft Store and open Ubuntu after the instalation, create Unix username and password
 2. Run Win+R and enter appwiz.cpl, on the left go to `Turn Windows Features On or Off` and enable `Virtual Machine Platform` and `Windows Subsystem For Linux` optional feature. (Restart PC)
 3. Open Windows PowerShell, and enter `wsl -l -v` to check for the wsl version, to set it up to version 2 enter `wsl --set-version <distribution name> 2`
+
+
 
 透明化工具栏translucentTB
 
